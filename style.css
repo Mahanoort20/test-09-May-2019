@@ -1,0 +1,44 @@
+body {
+    background-color: #fa87878a;
+    font-family: 'Akronim', cursive;
+font-family: 'Source Sans Pro', sans-serif;
+color: red;
+font-size: 25px;
+}
+h2 {
+    font-family: 'Akronim', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: red;
+    text-align: center;
+}
+p {
+    color: gray;
+    text-align: center;
+    
+}
+h5 {
+    color:black;
+    text-align: center;
+}
+h6 {
+    color:orangered;
+    text-align: center;
+}
+button {
+    border: 10px solid yellow;
+    color: white;
+    padding: 20px 20px;
+    text-size:50px;
+    background-color: blue;
+
+}
+div {
+    font-size: 10px;
+    color: rgb(62, 62, 105);
+    text-align: center;
+}
+.new {
+    float: right;
+}
+
+    /* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
